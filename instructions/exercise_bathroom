@@ -1,0 +1,25 @@
+/**
+ * Objective: Explain to compiler how to get to the bathroom
+ * Initial data: sitting on the chair
+ * Available commands: 
+ *      get up, 
+        move forward, 
+        turn left, 
+        turn right, 
+        move backward, 
+        sit down, 
+        door open, 
+        door close,
+        move upstairs,
+        move downstairs
+ * Step: Get up
+ * Step: move forward x3
+ * Step: turn left
+ * Step: move upstairs x8
+ * Step: turn right
+ * Step: door open
+ * Step: move forward
+ * Step: door close
+
+ * Comment: This set of functions can be further decomposed in some simple items.
+ */
